@@ -1,0 +1,47 @@
+#PGATS - Programação para QAs & CICD - Mural
+https://padlet.com/samuelborgeslucas/pgats-programa-o-para-qas-cicd-mural-t51sgadh1lmqdy77
+
+
+#Instalação Git:
+https://git-scm.com/downloads
+
+
+#Meu repositório:
+https://github.com/jessymachado
+
+#Repositório professor:
+https://github.com/samlucax
+
+#Git estudos:
+https://gitimmersion.com/
+https://learngitbranching.js.org/?locale=pt_BR
+
+
+#Comandos do Git
+cd <nome da pasta> - 'change directory' / trocar de pasta
+ls - listar os arquivos da pasta
+
+git clone : clonar um repositório para a nossa máquina
+git init  : 
+git add   : adicionar uma parte ou um arquivo alterado para uma área de alterações confirmadas
+git add <nome do arquivo>
+git add .  
+
+
+antes de enviar para o servidor
+git commit: confirmar localmente as alterações
+git push  : empurrar uma alteração confirmada para o servidor
+git pull  : puxar as alterações do servidor remoto (github)
+git status: para ver o que foi alterado
+git log   : log de toda atividade 
+git branch: ramificações do arquivo original, efetua as alterações e depois mescla com a cópia original ou não.
+git checkout
+git merge : mescla das alterações
+
+
+*Markdown:
+https://pandao.github.io/editor.md/en.html
+
+
+#Extensão para VS Code:
+https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscodex
