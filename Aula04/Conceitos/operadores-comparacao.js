@@ -37,6 +37,7 @@ console.log(null == undefined) // verdadeiro
 console.log('' == 0) // verdadeiro
 
 // igualdade de valores e tipo de dado
+console.log(1 === 1) // falso
 console.log(1 === '1') // falso
 console.log(true === 1) // falso
 console.log(false === 1) // falso

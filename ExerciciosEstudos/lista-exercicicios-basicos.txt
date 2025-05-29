@@ -1,0 +1,56 @@
+✅ 1. Variáveis e Tipos de Dados
+ Declare variáveis para nome, idade e se é estudante.
+
+ Crie uma variável com um número e exiba o dobro dele.
+
+ Converta um número para string e uma string para número.
+
+✅ 2. Operadores
+ Some dois números e mostre o resultado.
+
+ Verifique se um número é par ou ímpar.
+
+ Compare duas idades e diga qual é maior.
+
+✅ 3. Condicionais (if, else, switch)
+ Verifique se uma pessoa pode votar (idade >= 16).
+
+ Receba uma nota e diga se o aluno foi aprovado (nota >= 6).
+
+ Use switch para responder com o nome do dia da semana (1 a 7).
+
+✅ 4. Laços de Repetição (for, while)
+ Imprima os números de 1 a 10 usando for.
+
+ Conte de 10 até 1 usando while.
+
+ Some todos os números de 1 a 100.
+
+✅ 5. Arrays (vetores)
+ Crie um array com 5 nomes e imprima todos.
+
+ Adicione um item no fim e remova o primeiro.
+
+ Percorra o array e diga qual nome tem mais letras.
+
+✅ 6. Funções
+ Crie uma função que recebe dois números e retorna a soma.
+
+ Crie uma função que verifica se uma palavra contém vogais.
+
+ Faça uma função que recebe um array e retorna o maior número.
+
+✅ 7. Objetos
+ Crie um objeto representando um carro com marca, modelo e ano.
+
+ Acesse e exiba cada propriedade do objeto.
+
+ Crie uma função que recebe um objeto pessoa e exibe seu nome completo.
+
+✅ 8. Extras (nível um pouco acima)
+ Verifique se uma string é um palíndromo.
+
+ Faça um contador de vogais em uma frase.
+
+ Simule um jogo de adivinhação de número entre 1 e 10.
+
