@@ -1,0 +1,24 @@
+{
+  "name": "programacao-automacao-testes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessymachado/programacao-automacao-testes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessymachado/programacao-automacao-testes/issues"
+  },
+  "homepage": "https://github.com/jessymachado/programacao-automacao-testes#readme",
+  "devDependencies": {
+    "mocha": "^11.5.0"
+  }
+}
