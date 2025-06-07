@@ -31,6 +31,9 @@ jobs:
       # instalação das dependências
       - name: Instalando dependências
         run: yarn
+           
+      - name: Instalação do mocha
+        run: yarn add --dev mocha 
 
       # # instalação do Playwright
       # - name: Instalando Playwright
