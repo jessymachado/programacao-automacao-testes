@@ -4,26 +4,15 @@ on:
   workflow_dispatch:
 
 jobs:
-  trabalhoConclusao:
+  trabalhoConclusao:    
     runs-on: ubuntu-latest
     
     steps:
-
       - uses: actions/checkout@v4
 
-      # instalação do node
       - uses: actions/setup-node@v4
         with:
           node-version: 22.x
 
-      # # instalação do Yarn
-      # - name: Instalando Yarn
-      #   run: npm install -g yarn
-
-      # # instalação das dependências
-      # - name: Instalando dependências
-      #   run: yarn
-           
-      # executar os testes do trabalho de conclusão
       - name: Executando Testes Trabalho de Conclusão
         run: npx mocha ./TrabalhoConclusao/trabalho-final.js
