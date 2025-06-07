@@ -24,13 +24,13 @@ jobs:
         with:
           node-version: 22.x
 
-      # # instalação do Yarn
-      # - name: Instalando Yarn
-      #   run: npm install -g yarn
+      # instalação do Yarn
+      - name: Instalando Yarn
+        run: npm install -g yarn
 
-      # # instalação das dependências
-      # - name: Instalando dependências
-      #   run: yarn
+      # instalação das dependências
+      - name: Instalando dependências
+        run: yarn
 
       # # instalação do Playwright
       # - name: Instalando Playwright
@@ -38,4 +38,4 @@ jobs:
 
       # executar os testes do trabalho de conclusão
       - name: Executando Testes Trabalho de Conclusão
-        run: yarn run TrabalhoConclusao
+        run: yarn run TrabalhoConclusao/trabalho-final.js
