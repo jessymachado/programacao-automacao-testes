@@ -38,4 +38,4 @@ jobs:
 
       # executar os testes do trabalho de conclusão
       - name: Executando Testes Trabalho de Conclusão
-        run: yarn run TrabalhoConclusao/trabalho-final.js
+        run: yarn run TrabalhoConclusao
