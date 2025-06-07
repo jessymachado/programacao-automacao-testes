@@ -32,10 +32,10 @@ jobs:
       - name: Instalando dependências
         run: yarn
 
-      # instalação do Playwright
-      - name: Instalando Playwright
-        run: yarn playwright install
+      # # instalação do Playwright
+      # - name: Instalando Playwright
+      #   run: yarn playwright install
 
       # executar os testes do trabalho de conclusão
       - name: Executando Testes Trabalho de Conclusão
-        run: yarn run TrabalhoConclusao
+        run: npx mocha ./TrabalhoConclusao
