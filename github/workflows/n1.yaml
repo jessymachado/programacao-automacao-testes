@@ -38,4 +38,4 @@ jobs:
 
       # executar os testes do trabalho de conclusão
       - name: Executando Testes Trabalho de Conclusão
-        run: npx mocha ./TrabalhoConclusao
+        run: npx mocha ./TrabalhoConclusao/trabalho-final.js
