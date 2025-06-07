@@ -10,7 +10,7 @@ on:
 
 #trabalhos/tarefas dentro do pipeline = jobs
 jobs:
-  TrabalhoConclusao:
+  trabalhoConclusao:
     #maquina que o job vai executar
     runs-on: ubuntu-latest
 
